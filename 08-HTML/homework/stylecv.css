@@ -1,0 +1,84 @@
+h1 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding: 80px 10px 0px;
+}
+
+h2 {
+    text-align: center;
+    font-family:monospace;
+    font-size: 20px;
+    color: white;
+    padding: 1px;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;    
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
+.div1 {
+    background-color: black;
+    height: 250px;
+}
+
+.div2 {
+    position: absolute;
+    left: 36%;
+    top: 320px;
+}
+
+.div3 {
+    position: absolute;
+    left: 10%;
+    top: 650px;
+    bottom: 10px;
+}
+
+.div4 {
+    position: absolute;
+    left: 47%;
+    top: 650px;
+    bottom: 10px;
+}
+
+.div5 {
+    position: absolute;
+    right: 10%;
+    top: 650px;
+    bottom: 10px;
+}
+
+.div6 {
+    position: absolute;
+    top: 860px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.parrafo{
+    font-size: 25px;
+    font-family: monospace;
+    text-align: justify;
+    padding-right: 50px;
+}
+
+.parrafo2{
+    font-size: 25px;
+    font-family: monospace;
+    text-align: justify;
+}
+
+ul {
+    font-size: 17px;
+    font-family: monospace;
+    text-align: justify;
+}
