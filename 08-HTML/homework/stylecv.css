@@ -26,12 +26,14 @@ h4 {
 }
 
 .sobremi {
+    display:inline-block;
     position: relative;
     top: 60px;
     left: 50%;
 }
 
 .div1 {
+    position: static;
     background-color: black;
     height: 150px;
     padding: 40px;
@@ -53,25 +55,15 @@ ul {
     line-height: 0.8cm;
 }
 
-.exp {
-    position: relative;
-    top: 245px;
-    left: 50px;
-}
-
-.ski {
-    position: absolute;
-    top: 700px;
-    left: 45%;
-}
-
-.hob {
-    position: relative;
-    left: 73% ;
+.datos {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 0 50px;
+    margin-top: 150px;
 }
 
 .div3 {
     position: relative;
-    top: 2px;
     padding: 50px;
 }
