@@ -1,84 +1,77 @@
 h1 {
     text-align: center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-    padding: 80px 10px 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+    font-size: 50px;
 }
 
 h2 {
+    font-family: Helvetica;
     text-align: center;
-    font-family:monospace;
     font-size: 20px;
-    color: white;
-    padding: 1px;
+    color: #a01adc;
 }
 
 h3 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;    
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #a01adc;
 }
 
 h4 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #a01adc;
+    text-align: center;
 }
 
+.sobremi {
+    position: relative;
+    top: 60px;
+    left: 50%;
+}
 
 .div1 {
     background-color: black;
-    height: 250px;
+    height: 150px;
+    padding: 40px;
 }
 
-.div2 {
-    position: absolute;
-    left: 36%;
-    top: 320px;
-}
-
-.div3 {
-    position: absolute;
-    left: 10%;
-    top: 650px;
-    bottom: 10px;
-}
-
-.div4 {
-    position: absolute;
-    left: 47%;
-    top: 650px;
-    bottom: 10px;
-}
-
-.div5 {
-    position: absolute;
-    right: 10%;
-    top: 650px;
-    bottom: 10px;
-}
-
-.div6 {
-    position: absolute;
-    top: 860px;
-    padding-top: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
-}
-
-.parrafo{
-    font-size: 25px;
-    font-family: monospace;
+.parrafo {
+    font-family: Helvetica;   
+    font-size: 20px;
+    color: gray;
     text-align: justify;
-    padding-right: 50px;
-}
-
-.parrafo2{
-    font-size: 25px;
-    font-family: monospace;
-    text-align: justify;
+    line-height: 0.8cm;
 }
 
 ul {
-    font-size: 17px;
-    font-family: monospace;
+    font-family: Helvetica;   
+    font-size: 20px;
+    color: gray;
     text-align: justify;
+    line-height: 0.8cm;
+}
+
+.exp {
+    position: relative;
+    top: 245px;
+    left: 50px;
+}
+
+.ski {
+    position: absolute;
+    top: 700px;
+    left: 45%;
+}
+
+.hob {
+    position: relative;
+    left: 73% ;
+}
+
+.div3 {
+    position: relative;
+    top: 2px;
+    padding: 50px;
 }
